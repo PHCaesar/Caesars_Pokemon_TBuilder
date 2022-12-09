@@ -1,0 +1,153 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Caesars_Pokemon_TBuilder/1.0.0": {
+        "dependencies": {
+          "GraphQL": "7.2.1",
+          "GraphQL.Server.Ui.GraphiQL": "7.1.1",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.14.0",
+          "GraphiQL": "2.0.0"
+        },
+        "runtime": {
+          "Caesars_Pokemon_TBuilder.dll": {}
+        }
+      },
+      "GraphiQL/2.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Embedded": "3.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GraphiQL.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "GraphQL/7.2.1": {
+        "dependencies": {
+          "GraphQL-Parser": "8.1.0",
+          "Microsoft.CSharp": "4.7.0",
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
+        "runtime": {
+          "lib/net6.0/GraphQL.dll": {
+            "assemblyVersion": "7.2.1.0",
+            "fileVersion": "7.2.1.0"
+          }
+        }
+      },
+      "GraphQL-Parser/8.1.0": {
+        "runtime": {
+          "lib/net6.0/GraphQLParser.dll": {
+            "assemblyVersion": "8.1.0.0",
+            "fileVersion": "8.1.0.0"
+          }
+        }
+      },
+      "GraphQL.Server.Ui.GraphiQL/7.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/GraphQL.Server.Ui.GraphiQL.dll": {
+            "assemblyVersion": "7.1.1.0",
+            "fileVersion": "7.1.1.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Extensions.FileProviders.Abstractions/3.1.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.1"
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Embedded/3.1.1": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.1.1"
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.1": {},
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.14.0": {},
+      "System.ComponentModel.Annotations/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "Caesars_Pokemon_TBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphiQL/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wUUzFiZrXZWfxO6EwrgPJrPG4RhHHRl4COZlRdQ7tfdRNgldalqYWQlsISgwBMdaoLVXi5looSP7AgJ8mT6CQQ==",
+      "path": "graphiql/2.0.0",
+      "hashPath": "graphiql.2.0.0.nupkg.sha512"
+    },
+    "GraphQL/7.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7ODpAQZFsgESUw0LqGfLuvTC9L2UXcayDLSjziaBzRdpJI1HwXoCcOVlZ3L2P1zMauwm01DJTvqmzx+b7zV/3A==",
+      "path": "graphql/7.2.1",
+      "hashPath": "graphql.7.2.1.nupkg.sha512"
+    },
+    "GraphQL-Parser/8.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tGSA8V7iqgHLcyyeZwUsElbboKFqNLerewExyCsDqCqCexM50ktx5lBMXwPJjt0QFX0aI5H/HmJLyiQdFnx/cg==",
+      "path": "graphql-parser/8.1.0",
+      "hashPath": "graphql-parser.8.1.0.nupkg.sha512"
+    },
+    "GraphQL.Server.Ui.GraphiQL/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BkjJuTV3aAh+BgV6JZJkJxtC//Vb0oQhP2vz6NJecNWTLdVmtMVJS6juJRnUcvDUSf1DHbWy0FYBvF1GrkZ9Xw==",
+      "path": "graphql.server.ui.graphiql/7.1.1",
+      "hashPath": "graphql.server.ui.graphiql.7.1.1.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V9WqFEKiUygbsNB3JUMUUJAoTlDxNqBwfybZTF7RbFCgbooFNyCscBOdiciomA785wiRoX/Uy/WIea9wzPBPgQ==",
+      "path": "microsoft.extensions.fileproviders.abstractions/3.1.1",
+      "hashPath": "microsoft.extensions.fileproviders.abstractions.3.1.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Embedded/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+yygkjo94EkMggtsBkj/W3/OR/QTXrP+iGSrz3MkJJsd/lRJ3PrENeEkOowfqCAKg/U0AMJroAqI7U4g7i/+9w==",
+      "path": "microsoft.extensions.fileproviders.embedded/3.1.1",
+      "hashPath": "microsoft.extensions.fileproviders.embedded.3.1.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tC5Eo5DbJA+NgiIw26R5c97N02tFvtfqstUxqb/4qXPLXI2IAIWSMUkh/1c9Gw59TT9hNkLwlmLErSPlHgyJVQ==",
+      "path": "microsoft.extensions.primitives/3.1.1",
+      "hashPath": "microsoft.extensions.primitives.3.1.1.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yORzATlNmCp4kEwkxznLZ3maTaUJc5yTcu3aPufY8Tq4141/bRRWsa91u8I24MR3BTCCJlZO98xuQWB4arlKCw==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.14.0",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+    },
+    "System.ComponentModel.Annotations/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
+      "path": "system.componentmodel.annotations/4.7.0",
+      "hashPath": "system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    }
+  }
+}

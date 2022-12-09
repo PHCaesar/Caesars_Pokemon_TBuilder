@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "b6WShgEYa/YE24ZZn/ayo7cqLVmaF8WGXDR0xooLY3MHYCYmsR2Ap6wMpJ7I6AhG4njPLz/gr9aj5GfZS66tcg==",
+  "success": true,
+  "projectFilePath": "D:\\VS_Projects\\Caesars_Pokemon_TBuilder\\Caesars_Pokemon_TBuilder\\Caesars_Pokemon_TBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Philipp\\.nuget\\packages\\graphiql\\2.0.0\\graphiql.2.0.0.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\graphql\\7.2.1\\graphql.7.2.1.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\graphql-parser\\8.1.0\\graphql-parser.8.1.0.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\graphql.server.ui.graphiql\\7.1.1\\graphql.server.ui.graphiql.7.1.1.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.1\\microsoft.extensions.fileproviders.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.1\\microsoft.extensions.fileproviders.embedded.3.1.1.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.1\\microsoft.extensions.primitives.3.1.1.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
